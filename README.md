@@ -5,6 +5,6 @@
 - 📫 If you want contact me you can wrtie an e-mail on : bartosz.benedyczak@gmail.com
 
 
-If you have any advice or you see errors in the code it would be great when you will tell me about it :) !
+If you have any advice or you see errors in the code it would be great when you will tell me about it :)) !
 Greetings to all of the web development folks !
 
