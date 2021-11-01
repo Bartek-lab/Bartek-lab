@@ -6,4 +6,4 @@
 
 
 If you have any advice or you see errors in the code it would be great when you will tell me about it :)) !
-Greetings to all people :) !
+Greetings to all of the people :) !
