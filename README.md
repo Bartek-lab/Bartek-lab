@@ -6,5 +6,4 @@
 
 
 If you have any advice or you see errors in the code it would be great when you will tell me about it :)) !
-Greetings to all of the web development folks !
-
+Greetings to all people :) !
