@@ -1,6 +1,5 @@
 - 👋 Hi,
-- 👀 Junior frontend developer
-
+- 👀 Frontend developer
 - 📫 bartosz.benedyczak@gmail.com
  
 
