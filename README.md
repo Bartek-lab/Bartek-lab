@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 Frontend developer
+- 👀 Software developer
 - 📫 bartosz.benedyczak@gmail.com
  
 
